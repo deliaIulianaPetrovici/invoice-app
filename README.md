@@ -65,3 +65,4 @@ Project is: _in progress.
 
 ## Acknowledgments
 [Frontend Mentor](https://www.frontendmentor.io) challenges.
+https://medium.com/@colebemis/building-a-checkbox-component-with-react-and-styled-components-8d3aa1d826dd
